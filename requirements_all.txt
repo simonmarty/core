@@ -45,7 +45,7 @@ Mastodon.py==1.5.1
 # homeassistant.components.seven_segments
 # homeassistant.components.sighthound
 # homeassistant.components.tensorflow
-Pillow==9.5.0
+Pillow==10.3.0
 
 # homeassistant.components.plex
 PlexAPI==4.13.2
@@ -2358,7 +2358,7 @@ sensorpro-ble==0.5.3
 sensorpush-ble==1.5.5
 
 # homeassistant.components.sentry
-sentry-sdk==1.25.1
+sentry-sdk==2.8.0
 
 # homeassistant.components.sfr_box
 sfrbox-api==0.0.6
@@ -2727,7 +2727,7 @@ yolink-api==0.2.9
 youless-api==1.0.1
 
 # homeassistant.components.media_extractor
-yt-dlp==2023.3.4
+yt-dlp==2024.7.7
 
 # homeassistant.components.zamg
 zamg==0.2.2

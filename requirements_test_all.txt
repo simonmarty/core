@@ -38,7 +38,7 @@ HATasmota==0.6.5
 # homeassistant.components.seven_segments
 # homeassistant.components.sighthound
 # homeassistant.components.tensorflow
-Pillow==9.5.0
+Pillow==10.3.0
 
 # homeassistant.components.plex
 PlexAPI==4.13.2
@@ -1718,7 +1718,7 @@ sensorpro-ble==0.5.3
 sensorpush-ble==1.5.5
 
 # homeassistant.components.sentry
-sentry-sdk==1.25.1
+sentry-sdk==2.8.0
 
 # homeassistant.components.sfr_box
 sfrbox-api==0.0.6
